@@ -107,5 +107,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 • TV-MA and TV-14 are among the most common content ratings
 
 ---
+🔗 LinkedIn: www.linkedin.com/in/m-kausalya
+
+🐙 GitHub: github.com/kausalyamusanam
 
 🌱 Currently enhancing my skills in Data Structures & Algorithms, Advanced Machine Learning, Deep Learning, and AI-driven applications.
