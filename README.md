@@ -109,6 +109,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 ---
 🔗 LinkedIn: www.linkedin.com/in/m-kausalya
 
-🐙GitHub: github.com/kausalyamusanam
+🐙GitHub: https://github.com/kausalyamusanam
 
 🌱 Currently enhancing my skills in Data Structures & Algorithms, Advanced Machine Learning, Deep Learning, and AI-driven applications.
