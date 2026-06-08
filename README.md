@@ -6,6 +6,7 @@
  Passionate about Data Science, Machine Learning, Artificial Intelligence, and Exploratory Data Analysis
 
  Projects:
+ 
 • Loan Approval Prediction – Developed a machine learning model to predict loan eligibility based on applicant financial and demographic data.
 
 • Multi-Stock Price Prediction – Built deep learning models to analyze historical stock data and forecast future stock prices.
